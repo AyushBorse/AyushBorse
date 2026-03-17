@@ -1,6 +1,17 @@
-# 💫 About Me:
-# Hi, I'm Ayush 👋<br><br>🎓 Electronics & Telecommunication Engineering Student  <br>💡 Interested in Artificial Intelligence, Machine Learning & Data Science  <br>🚀 Passionate about building real-world AI projects  <br><br>## 🛠 Skills<br>- Python<br>- Machine Learning<br>- Deep Learning (Basics)<br>- Natural Language Processing (NLP)<br>- Data Analysis & Visualization<br>- NumPy, Pandas, Scikit-learn<br>- Git & GitHub<br><br>## 📌 Projects<br>- 🤖 RAG AI Teaching Assistant (Llama 3.2)<br>- 📄 AI Resume Analyst<br><br>## 🌱 Currently Learning<br>- Advanced Machine Learning<br>- LLMs & Generative AI<br>- Real-world AI Applications<br><br>## 📫 Contact<br>📧 ayushborse40@gmail.com
+## 👋 Hi, I'm Ayush
 
+🎓 Electronics & Telecommunication Engineering Student  
+🤖 Interested in Artificial Intelligence, Machine Learning & Data Science  
+🚀 Passionate about building real-world AI projects  
+
+---
+
+## 🛠 Skills
+- Python  
+- Machine Learning  
+- Deep Learning (Basics)  
+- Natural Language Processing (NLP)  
+- Data Analysis & Visualization
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushborse40@gmail.com) 
